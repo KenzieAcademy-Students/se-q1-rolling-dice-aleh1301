@@ -1,2 +1,7 @@
 
 /*  Put your CSS Here */
+
+#div.body{
+    outline:blue;
+    background-color:blue;
+}
